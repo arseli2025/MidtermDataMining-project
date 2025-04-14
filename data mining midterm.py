@@ -1,4 +1,4 @@
-#Arsel Curri classification of two simple features in a dataset
+#Arsel Curri classification of three simple features in a dataset
 import numpy as np
 import matplotlib.pyplot as plt
 from sklearn import datasets
